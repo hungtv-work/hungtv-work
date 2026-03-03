@@ -1,4 +1,4 @@
-# ### Hi there 👋 I'm HUNG (hungtv-work)
+## Hi there 👋 I'm HUNG (hungtv-work)
 ![banner](./images/welcome.png)
 
 ## 💫 About Me
